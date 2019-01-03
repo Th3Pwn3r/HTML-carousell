@@ -12,14 +12,3 @@ Structure example:
   </div>
 </div>
 ```
-<script type="text/javascript" src="plamCarousell.js"></script>
-<link rel="stylesheet" type="text/css" href="plamcarousell.css">
-
-<div class="imgContainer">
-  <div>
-    <img src="https://homepages.cae.wisc.edu/~ece533/images/airplane.png" class="active">
-  </div>
-  <div>
-    <img src="https://homepages.cae.wisc.edu/~ece533/images/arctichare.png" class="disabled">
-  </div>
-</div>
