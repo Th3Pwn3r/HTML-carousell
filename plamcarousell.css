@@ -1,0 +1,16 @@
+.imgContainer{
+	position: relative;
+	width:90vw;
+	height:90vh;
+	margin: auto;
+	border:3px solid;
+	
+}
+
+.imgContainer img{
+	width: 90vw;
+	height: 90vh;
+}
+.disabled{
+	display: none;
+}
